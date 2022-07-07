@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button.xml" value="0.227" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button_holder.xml" value="0.2385" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button_onClick_ui.xml" value="0.227" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button_onclick_ui.xml" value="0.2385" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button_onfoucs.xml" value="0.196" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button_ui.xml" value="0.227" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button_ui2.xml" value="0.2075" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/button_ui_onfoucs.xml" value="0.2535" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/layout_bg.xml" value="0.2535" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/layout_bg_red.xml" value="0.196" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable-v24/text_color_blue_with_hover.xml" value="0.179" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/attach_money.xml" value="0.32" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/badge.xml" value="0.32" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/dashboard_48px.xml" value="0.32" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/lock.xml" value="0.196" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/person.xml" value="0.2035" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/resend.xml" value="0.196" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/settings-48px.xml" value="0.2535" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/settings_48px.xml" value="0.227" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/shapes.xml" value="0.196" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/drawable/smartphone.xml" value="0.196" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/font/cairo.xml" value="0.396875" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_actions.xml" value="0.2203125" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_actions_adapters.xml" value="0.18802083333333333" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_add_action.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_dashboard.xml" value="0.2203125" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_forget_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_home.xml" value="0.2203125" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_main.xml" value="0.365625" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_passcode.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_settings.xml" value="0.2203125" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/activity_update_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/button_ui.xml" value="0.18802083333333333" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/fragment_action_details.xml" value="0.27943840579710144" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/fragment_action_detailst.xml" value="0.2203125" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/fragment_add_action.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/fragment_dashboard.xml" value="0.15765933656354827" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/fragment_dashboard_container.xml" value="0.36666666666666664" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/fragment_top.xml" value="0.2203125" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/layout_bg.xml" value="0.18802083333333333" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/layout/loading.xml" value="0.20625" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2203125" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/xml/button.xml" value="0.18802083333333333" />
+        <entry key="..\:/Kotlin/final/front/app/src/main/res/xml/button_ui.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
